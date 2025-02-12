@@ -1,4 +1,6 @@
-👋 Hi, I’m Kaung Zaw Hein 
+<h3>
+  👋 Hi, I’m Kaung Zaw Hein 
+</h3>
 
 I am a junior programmer with a strong passion for software development. I enjoy creating impactful applications and continuously seek to enhance my skills by staying updated with the latest industry trends. I believe in the power of collaboration and strive to work on open-source projects and contribute to web applications that make a meaningful difference.
 
