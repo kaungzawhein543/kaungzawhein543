@@ -1,4 +1,4 @@
-![Kaung Zaw Hein Banner Image](https://backiee.com/static/wallpapers/5120x2880/363807.jpg)
+<img src="https://backiee.com/static/wallpapers/5120x2880/363807.jpg" width="100%" height="320" alt="Kaung Zaw Hein Banner Image">
 <h3 style="margin:0">
   👋 Hi, I’m Kaung Zaw Hein 
 </h3>
