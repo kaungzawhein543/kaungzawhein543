@@ -1,4 +1,5 @@
-<h3>
+<img style="margin:0" width="100%" height="300px" src="https://backiee.com/static/wallpapers/5120x2880/363807.jpg" alt="bannerOfKaungZawHein"/>
+<h3 style="margin:0">
   👋 Hi, I’m Kaung Zaw Hein 
 </h3>
 
@@ -9,6 +10,7 @@ I am a junior programmer with a strong passion for software development. I enjoy
 😄 Pronouns: he/him
 
 ⚡ Fun fact: In my spare time, I enjoy solving puzzles and exploring new technologies. I see every challenge as an opportunity to grow and learn.
+
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaungzawhein543&theme=nightowl" width="100%"/>
 
@@ -21,3 +23,5 @@ I am a junior programmer with a strong passion for software development. I enjoy
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaungzawhein543&theme=nightowl" width="49%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaungzawhein543&theme=nightowl&utcOffset=8" width="49%"/>
 </div>
+
+  
