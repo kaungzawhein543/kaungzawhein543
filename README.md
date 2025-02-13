@@ -11,6 +11,8 @@ I am a junior programmer with a strong passion for software development. I enjoy
 
 ⚡ Fun fact: In my spare time, I enjoy solving puzzles and exploring new technologies. I see every challenge as an opportunity to grow and learn.
 
+<br>
+
 <h2>Technologies </h2>
 <div style="display:flex;">
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png"/>
@@ -43,6 +45,7 @@ I am a junior programmer with a strong passion for software development. I enjoy
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png"/>
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png"/>
 </div>
+<br>
 <br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaungzawhein543&theme=nightowl" width="100%"/>
 
