@@ -1,8 +1,18 @@
-<img src="https://backiee.com/static/wallpapers/5120x2880/363807.jpg" width="100%" height="320" alt="Kaung Zaw Hein Banner Image">
-<h3 style="margin:0">
-  👋 Hi, I’m Kaung Zaw Hein 
-</h3> 
+<!--<img src="https://images4.alphacoders.com/130/1307940.png" width="100%" height="400" alt="Kaung Zaw Hein Banner Image">-->
+<h1 align="center">Hi there! I'm Kaung Zaw Hein 👋</h1>
+<h3 align="center">Junior Backend Developer | Spring Boot Enthusiast | Open Source Learner</h3>
 
+<p align="center">
+  <a href="https://github.com/KaungZawHein">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&width=500&lines=Junior+Backend+Developer;Working+with+Spring+Boot+%26+PostgreSQL;Loves+Clean+%26+Scalable+Code;Open+Source+Contributor;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2" alt="Typing animation">
+  </a>
+</p>
+
+---
+
+
+
+## 🚀 About Me
 I am a junior programmer with a strong passion for software development. I enjoy creating impactful applications and continuously seek to enhance my skills by staying updated with the latest industry trends. I believe in the power of collaboration and strive to work on open-source projects and contribute to web applications that make a meaningful difference.
 
 📫 Feel free to reach out to me at kzheindev789@gmail.com or connect with me on LinkedIn. I'm always open to new opportunities for networking and collaboration.
