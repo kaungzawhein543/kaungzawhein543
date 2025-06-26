@@ -1,6 +1,6 @@
 <!--<img src="https://images4.alphacoders.com/130/1307940.png" width="100%" height="400" alt="Kaung Zaw Hein Banner Image">-->
 <h1 align="center">Hi there! I'm Kaung Zaw Hein 👋</h1>
-<h3 align="center">Junior Backend Developer | Spring Boot Enthusiast | Open Source Learner</h3>
+<h3 align="center">Junior Software Developer | Spring Boot Enthusiast | Open Source Learner</h3>
 
 <p align="center">
   <a href="https://github.com/kaungzawhein543">
