@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/kaungzawhein543">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&width=500&lines=Junior+Backend+Developer;Working+with+Spring+Boot+%26+MySQL;Loves+Clean+%26+Scalable+Code;Open+Source+Contributor;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2" alt="Typing animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&width=500&lines=Junior+Software+Developer;Working+with+Spring+Boot+%26+MySQL;Loves+Clean+%26+Scalable+Code;Open+Source+Contributor;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2" alt="Typing animation">
   </a>
 </p>
 
