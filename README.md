@@ -1,6 +1,6 @@
 <!--<img src="https://images4.alphacoders.com/130/1307940.png" width="100%" height="400" alt="Kaung Zaw Hein Banner Image">-->
 <h1 align="center">Hi there! I'm Kaung Zaw Hein 👋</h1>
-<h3 align="center">Junior Software Developer | Spring Boot Enthusiast | Open Source Learner</h3>
+<h3 align="center">Software Developer | Spring Boot Enthusiast | Open Source Learner</h3>
 
 <p align="center">
   <a href="https://github.com/kaungzawhein543">
@@ -13,7 +13,7 @@
 
 
 ## 🚀 About Me
-I am a junior programmer with a strong passion for software development. I enjoy creating impactful applications and continuously seek to enhance my skills by staying updated with the latest industry trends. I believe in the power of collaboration and strive to work on open-source projects and contribute to web applications that make a meaningful difference.
+I am a programmer with a strong passion for software development. I enjoy creating impactful applications and continuously seek to enhance my skills by staying updated with the latest industry trends. I believe in the power of collaboration and strive to work on open-source projects and contribute to web applications that make a meaningful difference.
 
 📫 Feel free to reach out to me at kzheindev789@gmail.com or connect with me on LinkedIn. I'm always open to new opportunities for networking and collaboration.
 
